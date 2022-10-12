@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karan Chadha</title>
-    <link>https://web.stanford.edu/~knchadha/</link>
-      <atom:link href="https://web.stanford.edu/~knchadha/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://knchadha.github.io/</link>
+      <atom:link href="https://knchadha.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Karan Chadha</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://web.stanford.edu/~knchadha/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://knchadha.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Karan Chadha</title>
-      <link>https://web.stanford.edu/~knchadha/</link>
+      <link>https://knchadha.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://web.stanford.edu/~knchadha/talk/example-talk/</link>
+      <link>https://knchadha.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/talk/example-talk/</guid>
+      <guid>https://knchadha.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,41 +34,41 @@
     
     <item>
       <title>Private confidence sets using aggregation of subsampled bootstraps</title>
-      <link>https://web.stanford.edu/~knchadha/project/priv_confidence/</link>
+      <link>https://knchadha.github.io/project/priv_confidence/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/project/priv_confidence/</guid>
+      <guid>https://knchadha.github.io/project/priv_confidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private optimization in the interpolation regime: faster rates and hardness results</title>
-      <link>https://web.stanford.edu/~knchadha/publication/priv_interpolation/</link>
+      <link>https://knchadha.github.io/publication/priv_interpolation/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/priv_interpolation/</guid>
+      <guid>https://knchadha.github.io/publication/priv_interpolation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerated, Optimal, and Parallel: Some Results on Model-Based Stochastic Optimization</title>
-      <link>https://web.stanford.edu/~knchadha/publication/aprox_icml22/</link>
+      <link>https://knchadha.github.io/publication/aprox_icml22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/aprox_icml22/</guid>
+      <guid>https://knchadha.github.io/publication/aprox_icml22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federated Asymptotics: a model to compare federated learning algorithms</title>
-      <link>https://web.stanford.edu/~knchadha/publication/pers_fl/</link>
+      <link>https://knchadha.github.io/publication/pers_fl/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/pers_fl/</guid>
+      <guid>https://knchadha.github.io/publication/pers_fl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://web.stanford.edu/~knchadha/post/getting-started/</link>
+      <link>https://knchadha.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/post/getting-started/</guid>
+      <guid>https://knchadha.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -146,17 +146,17 @@
     
     <item>
       <title>Minibatch stochastic approximate proximal point methods</title>
-      <link>https://web.stanford.edu/~knchadha/publication/minibatch_aprox/</link>
+      <link>https://knchadha.github.io/publication/minibatch_aprox/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/minibatch_aprox/</guid>
+      <guid>https://knchadha.github.io/publication/minibatch_aprox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://web.stanford.edu/~knchadha/post/writing-technical-content/</link>
+      <link>https://knchadha.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/post/writing-technical-content/</guid>
+      <guid>https://knchadha.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -256,7 +256,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-613972548&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-382641795&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -266,7 +266,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-613972548&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-382641795&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -548,9 +548,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://web.stanford.edu/~knchadha/post/jupyter/</link>
+      <link>https://knchadha.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/post/jupyter/</guid>
+      <guid>https://knchadha.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -607,9 +607,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://web.stanford.edu/~knchadha/slides/example/</link>
+      <link>https://knchadha.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/slides/example/</guid>
+      <guid>https://knchadha.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -621,41 +621,41 @@ Crash --&gt; [*]
     
     <item>
       <title>Aggregate play and welfare in strategic interactions on networks</title>
-      <link>https://web.stanford.edu/~knchadha/publication/ijpam_public_goods/</link>
+      <link>https://knchadha.github.io/publication/ijpam_public_goods/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/ijpam_public_goods/</guid>
+      <guid>https://knchadha.github.io/publication/ijpam_public_goods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficiency fairness tradeoff in battery sharing</title>
-      <link>https://web.stanford.edu/~knchadha/publication/efficiency_fairness/</link>
+      <link>https://knchadha.github.io/publication/efficiency_fairness/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/efficiency_fairness/</guid>
+      <guid>https://knchadha.github.io/publication/efficiency_fairness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On independent cliques and linear complementarity problems</title>
-      <link>https://web.stanford.edu/~knchadha/publication/jmec_public_goods/</link>
+      <link>https://knchadha.github.io/publication/jmec_public_goods/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/jmec_public_goods/</guid>
+      <guid>https://knchadha.github.io/publication/jmec_public_goods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A reinforcement learning algorithm for restless bandits</title>
-      <link>https://web.stanford.edu/~knchadha/publication/restless_bandits/</link>
+      <link>https://knchadha.github.io/publication/restless_bandits/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/publication/restless_bandits/</guid>
+      <guid>https://knchadha.github.io/publication/restless_bandits/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://web.stanford.edu/~knchadha/admin/config.yml</link>
+      <link>https://knchadha.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://web.stanford.edu/~knchadha/admin/config.yml</guid>
+      <guid>https://knchadha.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
