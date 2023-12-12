@@ -5,10 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-I am interested in answering questions in differential privacy, trustworthy AI, uncertainty quantification, and federated learning, for which I use theoretical tools from statistics and optimization, complemented by rigorous experimentation. More concretely, in the near future, I am interested in the following directions:
+I am interested in answering questions in **Trustworthy AI,  Differential privacy, Uncertainty Quantification,** and **Federated Learning**, for which I use theoretical tools from statistics and optimization, complemented by rigorous experimentation. More concretely, in the near future, I am interested in the following directions:
 
-1. Auditing or using attacks to find empirical privacy leakage for modern ML models (Foundation models) with the goal of understanding leakage in realistic attack scenarios. In a similar vein, moving beyond differential privacy to find application-relevant definitions of privacy, fairness and copyright backed by rigorous experiments.
-2. Building better (trustworthy) algorithms for practically relevant ML and data analytics tasks like recommendations, ranking, frequency estimation, etc.
+1. Auditing or using attacks to find empirical privacy leakage for modern ML models (including foundation models) with the goal of understanding leakage in realistic attack scenarios. 
+2. Moving beyond differential privacy to find application-relevant definitions to evaluate models on privacy, fairness and copyright using rigorous experimentation.
+3. Building better (trustworthy) algorithms for practically relevant ML and data analytics tasks like recommendations, ranking, frequency estimation, etc.
 
 ## Publications
 
