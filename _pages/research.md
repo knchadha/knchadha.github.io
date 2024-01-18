@@ -9,7 +9,7 @@ I am interested in answering questions in **Trustworthy AI,  Differential privac
 
 1. Studying the empirical privacy leakage for modern ML models (Foundation Models/LLMs) in realistic attack scenarios. 
 2. Moving beyond differential privacy to find application-relevant definitions to evaluate models on privacy, robustness, fairness and copyright.
-3. Building better (trustworthy) algorithms for practically relevant ML and data analytics tasks like recommendations, ranking, frequency estimation, etc.
+3. Building better (trustworthy) algorithms and systems for practically relevant ML and data analytics tasks like recommendations, ranking, frequency estimation, etc.
 
 ## Publications
 
