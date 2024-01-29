@@ -9,6 +9,6 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Ongoing"
-    url: /ongoing/
+  # - title: "Ongoing"
+  #   url: /ongoing/
 
