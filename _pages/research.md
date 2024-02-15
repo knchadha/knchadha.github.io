@@ -15,14 +15,12 @@ I am interested in answering questions in **Trustworthy AI,  Differential privac
 
 Check [Google Scholar](https://scholar.google.com/citations?hl=en&user=A6BcRcoAAAAJ&view_op=list_works&sortby=pubdate) for an up to date list.
 
-* [Auditing Private Prediction]()<br>
+* [Auditing Private Prediction](https://arxiv.org/pdf/2402.09403.pdf)<br>
     <ins>K. Chadha</ins>, M. Jagielski, C. Choquette-Choo, M. Nasr, and N. Papernot<br>
-    _Preprint available on request_
 
-
-* [Resampling methods for private statistical inference]()<br>
+* [Resampling methods for private statistical inference](https://arxiv.org/abs/2402.07131)<br>
     <ins>K. Chadha</ins>, J. C. Duchi and R. Kuditipudi<br>
-    _Preprint available on request_
+
 
 * [Differentially Private Heavy Hitter Detection using Federated Analytics](https://arxiv.org/pdf/2307.11749.pdf)<br>
 <ins>K. Chadha</ins> J. Chen, J. C. Duchi, V. Feldman, H. Hashemi, O. Javidbakht, A. McMillan, and K. Talwar<br>
