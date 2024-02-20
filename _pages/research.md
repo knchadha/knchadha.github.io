@@ -7,9 +7,11 @@ author_profile: true
 
 I am interested in answering questions in **Trustworthy AI,  Differential privacy, Uncertainty Quantification,** and **Federated Learning**, for which I use theoretical tools from statistics and optimization, complemented by rigorous experimentation. More concretely, in the near future, I am interested in the following directions:
 
-1. Studying the empirical privacy leakage for modern ML models (Foundation Models/LLMs) in realistic attack scenarios. 
-2. Moving beyond differential privacy to find application-relevant definitions to evaluate models on privacy, robustness, fairness and copyright.
+1. Studying the empirical privacy leakage for modern ML models (Foundation Models/LLMs) in realistic attack scenarios and moving beyond DP to find application-relevant definitions to evaluate models on privacy, robustness, fairness and copyright.
+2. Developing mitigation strategies and training algorithms that ensure foundation models adhere to trustworthy behavior.
 3. Building better (trustworthy) algorithms and systems for practically relevant ML and data analytics tasks like recommendations, ranking, frequency estimation, etc.
+4. Leveraging the capabilities of foundation models for private synthetic data generation to help with private training in low resource tasks.
+
 
 ## Publications
 
